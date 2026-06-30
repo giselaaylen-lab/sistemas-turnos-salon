@@ -11,5 +11,5 @@ Aplicación de consola para gestionar turnos de clientes de un salón de belleza
 ## Autor
 **Gisela Aylen Alvarado**
 
-Estudiante de Analista de Sistemas y Programación
+Estudiante de Analista de Sistemas y Programación,
 Instituto Santo Domingo.
