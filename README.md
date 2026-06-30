@@ -1,2 +1,13 @@
-# sistemas-turnos-salon
-Sistema de gestión de turnos desarrollado en Python como proyecto personal.
+# Sistemas de Turnos - Salón
+Proyecto personal desarrollado en Python.
+## Descripción
+Aplicación de consola para gestionar turnos de clientes d eun salón de belleza.
+## Funcionalidades
+- Agregar turnos
+- Mostrar turnos registrados
+- Organización de datos mediante listas y diccionarios
+## Tegnologías
+- Python
+## Autor
+Gisela Aylen Alvarado
+Estudiante de Analista de Sistemas y Programación.
