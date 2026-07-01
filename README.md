@@ -8,7 +8,7 @@ Aplicación de consola para gestionar turnos de clientes de un salón de belleza
 - Organización de datos mediante listas y diccionarios
 ## Capturas del funcionamiento
 - Ejecución del sistema de turnos en consola:
-![Sistema funcionando](screenshots/captura-funcionamiento.png)
+[Sistema funcionando](screenshots/captura-funcionamiento.png)
 ## Tegnologías
 - Python
 ## Autor
