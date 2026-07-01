@@ -11,6 +11,11 @@ Aplicación de consola para gestionar turnos de clientes de un salón de belleza
 [Sistema funcionando](screenshots/captura-funcionamiento.png)
 ## Tegnologías
 - Python
+## Próximas mejoras
+- Buscar clientes
+- Eliminar turnos
+- Contador de turnos
+- Guardado de información
 ## Autor
 **Gisela Aylen Alvarado**
 
